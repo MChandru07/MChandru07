@@ -132,6 +132,8 @@
   <br>
 </details>
 <br>
+<!--horizontal divider(gradiant)-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
   <a href="https://mchandru07.github.io/portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"></a>
@@ -140,8 +142,6 @@
 	<a href="https://www.linkedin.com/in/chandru-m-leo/ "><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
 	</p>
 <hr>
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <ul>
 </ul>
 <!--horizontal divider(gradiant)-->

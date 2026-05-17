@@ -139,6 +139,7 @@
 	<a href="https://www.linkedin.com/in/chandru-m-leo/ "><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
 	</p>
 <hr>
+<p>📫 How to reach me: <strong><a href="mailto:chandrum725@gmail.com">brantlauro@gmail.com</a></strong></p>
 <ul>
 </ul>
 <!--horizontal divider(gradiant)-->

@@ -134,7 +134,7 @@
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>
 <p align="center">
   <a href="https://mchandru07.github.io/portfolio/"><img src="https://img.icons8.com/bubbles/50/000000/web.png" alt="Website"></a>
-	<a href="mailto:chandrum725@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail">chandrum725@gmail.com</a>
+	<a href="mailto:chandrum725@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"></a>
 	<a href="https://github.com/MChandru07"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"></a>
 	<a href="https://www.linkedin.com/in/chandru-m-leo/ "><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"></a>
 	</p>

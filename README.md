@@ -60,8 +60,10 @@
     <a href="https://www.sqlite.org/"><img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&amp;logo=sqlite&amp;logoColor=white"></a>
    
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&amp;llogo=github&amp;logoColor=white"></a>
-	<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&amp;logoColor=white"></a>  
-  <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white"></a>
+	
+<a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&amp;logoColor=white"></a> 
+
+ <a href="https://firebase.google.com/"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&amp;logoColor=white"></a>
  </p>
 <h3 id="graphic-designing">👉Graphic Designing</h3>
 <p align="left">

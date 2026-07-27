@@ -125,11 +125,10 @@
 </details>
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br>
-	<a href="https://github.com/MChandru07">
+  <br> <a href="https://github.com/MChandru07"></a><br>
 	      
 		#<img alt="MChandru' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=candida18&amp;custom_title=Candida%20Noronha's%20Contribution%20Graph&amp;theme=react-dark"></a>
-  <br>
+		
 </details>
 <br>
 <h2 id="️-lets-connect">🙋‍♀️ Let’s Connect</h2>

@@ -118,8 +118,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="MChandru' Github Stats" src="https://github-readme-stats.vercel.app/api?username=MChandru078&amp;show_icons=true&amp;count_private=true&amp;theme=algolia" height="192px"></a>
 <br>
   &nbsp;
-	  
-	  #<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MChandru078&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="MChandru07" height="192px">
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MChandru078&amp;show_icons=true&amp;locale=en&amp;layout=compact&amp;theme=algolia" alt="MChandru07" height="192px">
   <br>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
   </p>
